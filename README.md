@@ -8,6 +8,8 @@ The goal of this project is to list all the bank cards in one place, so users ca
 | Bank Name  | Card Type  | Yearly Card Fee  | Source Link  | Notes  |
 |---|---|---|---|---|
 | BRAC Bank  | Visa Debit Card  | 1,500  | [Website](https://www.bracbank.com/schedule_of_charges_credit_card.html)  |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Dutch Bangla Bank | Visa Debit Card  | 807  | [Website](https://www.dutchbanglabank.com/schedule_charge/credit-cards-charges.pdf)  |   |
+| City Bank  | Visa Debit Card  | 600   | [Website](https://www.thecitybank.com/download/VISA-Credit-Cards-Fees-Charges.pdf) |   |
+| Bank Asia  | Visa Signature Card  | 2,000   | [Website](https://www.bankasia-bd.com/assets/downloads/Fess-and-charges-09.07.2023-05.pdf)   |   |
+| Eastern Bank  | Visa Credit Card  | 1,725  | [Website](https://www.ebl.com.bd/assets/home/schedule/SOC-Cards_-Effective-from-November-2023.pdf) |   |
+| Social Islami Bank  | Visa Credit Card  | 1,200   | [Website](https://www.siblbd.com/retail-cards/Schedule-of-Charges)  |   |
