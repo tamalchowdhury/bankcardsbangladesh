@@ -13,3 +13,5 @@ The goal of this project is to list all the bank cards in one place, so users ca
 | Bank Asia  | Visa Signature Card  | 2,000   | [Website](https://www.bankasia-bd.com/assets/downloads/Fess-and-charges-09.07.2023-05.pdf)   |   |
 | Eastern Bank  | Visa Credit Card  | 1,725  | [Website](https://www.ebl.com.bd/assets/home/schedule/SOC-Cards_-Effective-from-November-2023.pdf) |   |
 | Social Islami Bank  | Visa Credit Card  | 1,200   | [Website](https://www.siblbd.com/retail-cards/Schedule-of-Charges)  |   |
+| Prime Bank Limited | Visa Credit Card  | 2,000   | [Website](https://www.primebank.com.bd/assets/downloads/1688382349_soc_card_March_2023.pdf)  |   |
+| AB Bank Limited | Visa Credit Card  | 3,000   | [Website](https://abbl.com/wp-content/uploads/2023/10/Schedule-of-Charges-17-10-23.pdf)  |   |
