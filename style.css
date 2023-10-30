@@ -56,6 +56,18 @@ a:hover {
   border: none;
   outline: none;
 }
+.bank-img{
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  
+}
+
+.bank-img:hover{
+
+  cursor: pointer;
+
+}
 
 .footer {
   position: fixed;
