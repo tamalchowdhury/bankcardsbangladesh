@@ -15,3 +15,4 @@ The goal of this project is to list all the bank cards in one place, so users ca
 | Social Islami Bank  | Visa Credit Card  | 1,200   | [Website](https://www.siblbd.com/retail-cards/Schedule-of-Charges)  |   |
 | Prime Bank Limited | Visa Credit Card  | 2,000   | [Website](https://www.primebank.com.bd/assets/downloads/1688382349_soc_card_March_2023.pdf)  |   |
 | AB Bank Limited | Visa Credit Card  | 3,000   | [Website](https://abbl.com/wp-content/uploads/2023/10/Schedule-of-Charges-17-10-23.pdf)  |   |
+| Standard Chartered | Debit Card  | 600   | [Website](https://av.sc.com/bd/content/docs/retail-deposit-schedule-of-charges-new.pdf)  |   |
